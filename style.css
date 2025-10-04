@@ -1,0 +1,15 @@
+body {
+    font-family: Georgia;
+    color: #333;
+}
+h1 {
+    color: #00ffff;
+}
+.btn-primary {
+    background-color: #00ffff;
+    border: none;
+}
+.btn {
+    border-radius: 0px;
+    box-shadow: 2px 2px 5px gray;
+}
